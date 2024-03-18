@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apricityx&theme=github_dark_dimmed" width="100%">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apricityx&theme=github_dark_dimmed)
 ### HAPPY LIFE.
 
 <!--

@@ -1,5 +1,6 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apricityx&theme=github_dark_dimmed)
-### HAPPY LIFE.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apricityx&theme=github_dark_dimmed&langs_count=10&layout=compact&hide=html,css" alt="Top Langs" />
+</div>
 
 <!--
 **Apricityx/Apricityx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

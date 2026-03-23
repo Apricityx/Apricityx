@@ -1,14 +1,50 @@
-<!--
-**Apricityx/Apricityx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi there, I'm Apricityx 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focusing on building useful tools, learning by building, and turning ideas into products.
+
+<p>
+  <a href="https://github.com/Apricityx">
+    <img src="https://img.shields.io/badge/GitHub-Apricityx-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://blog.apricityx.top/">
+    <img src="https://img.shields.io/badge/Blog-apricityx.top-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<img
+  src="https://github-readme-stats-enhanced-ap.vercel.app/api?username=Apricityx&show_icons=true&theme=transparent&hide_border=true&include_managed_repos=true"
+  height="165"
+/>
+<img
+  src="https://github-readme-stats-enhanced-ap.vercel.app/api/top-langs?username=Apricityx&layout=compact&theme=transparent&hide_border=true&include_managed_repos=true"
+  height="165"
+/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 📱 主要关注 Android / Kotlin / Flutter
+- 🛠 喜欢做工具型项目、效率工具和真实可用的应用
+- 🌱 持续学习前端、后端、移动开发、算法与系统基础
+- 🎮 也在探索游戏生态 / 模组工具 / 自动化相关项目
+
+---
+
+## 🌟 Featured Projects
+
+- [SlayTheAmethyst](https://github.com/ModinMobileSTS/SlayTheAmethystModded)
+- [WorkshopAndroidDownloader](https://github.com/Apricityx/WorkshopAndroidDownloader)
+- [PaddleScoreApp](https://github.com/Apricityx/PaddleScoreApp)
+- [apricityx.github.io](https://github.com/Apricityx/apricityx.github.io)
+
+---
+
+## 📫 Contact
+
+- Blog: [blog.apricityx.top](https://blog.apricityx.top/)
+- GitHub: [@Apricityx](https://github.com/Apricityx)

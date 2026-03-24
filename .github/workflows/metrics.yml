@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    environment: 
+    environment:
       name: action
+
     steps:
       - name: Base card
         uses: lowlighter/metrics@latest
@@ -74,3 +75,14 @@ jobs:
           base: ""
           plugin_notable: yes
           plugin_notable_from: all
+
+      - name: Skyline 3D commits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.svg
+          token: NOT_NEEDED
+          user: Apricityx
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 0.5

@@ -22,6 +22,10 @@
   height="165"
 />
 
+<img
+  src="https://github.com/Apricityx/Apricityx/blob/main/metrics.plugin.isocalendar.fullyear.svg"
+/>
+
 </div>
 
 ---

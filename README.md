@@ -2,7 +2,7 @@
 
 # Hi there, I'm Apricityx 👋
 
-### Focusing on building useful tools, learning by building, and turning ideas into products.
+### Focusing on software engineering, learning by building, and turning ideas into products.
 
 <p>
   <a href="https://github.com/Apricityx">
@@ -32,10 +32,10 @@
 
 ## 🚀 About Me
 
-- 📱 主要关注 Android / Kotlin / Flutter
-- 🛠 喜欢做工具型项目、效率工具和真实可用的应用
+- 📱 主要关注 Linux / Android / Kotlin / Flutter
 - 🌱 持续学习前端、后端、移动开发、算法与系统基础
 - 🎮 也在探索游戏生态 / 模组工具 / 自动化相关项目
+- 🛠 喜欢做真实可用的应用
 
 ---
 
@@ -52,3 +52,4 @@
 
 - Blog: [blog.apricityx.top](https://blog.apricityx.top/)
 - GitHub: [@Apricityx](https://github.com/Apricityx)
+- Email: Apricityx@qq.com

@@ -14,11 +14,11 @@
 </p>
 
 <img
-  src="https://github-readme-stats-enhanced-ap.vercel.app/api?username=Apricityx&show_icons=true&theme=transparent&hide_border=true&include_managed_repos=true"
+  src="https://github-readme-stats-enhanced-ap.vercel.app/api?username=Apricityx&show_icons=true&theme=transparent&hide_border=true&include_managed_repos=true&v=dd857da"
   height="165"
 />
 <img
-  src="https://github-readme-stats-enhanced-ap.vercel.app/api/top-langs?username=Apricityx&layout=compact&theme=transparent&hide_border=true&include_managed_repos=true"
+  src="https://github-readme-stats-enhanced-ap.vercel.app/api/top-langs?username=Apricityx&layout=compact&theme=transparent&hide_border=true&include_managed_repos=true&v=dd857da"
   height="165"
 />
 
